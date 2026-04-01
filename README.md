@@ -33,9 +33,9 @@
 
 ### 📈 Lab Activity & Insights
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khadejalabs&show_icons=true&theme=tokyonight&hide_border=true&align=center" alt="khadejalabs Stats" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=khadejalabs&show_icons=true&theme=tokyonight&hide_border=true" alt="khadejalabs Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadejalabs&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=khadejalabs&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
