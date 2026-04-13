@@ -35,10 +35,6 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=khadejalabs&theme=tokyonight&hide_border=true" alt="khadejalabs Streak Stats" />
-  
-  <br/>
-
-  <img src="https://github-profile-trophy.vercel.app/?username=khadejalabs&theme=tokyonight&no-bg=true&column=4" alt="khadejalabs Trophies" />
 </div>
 
 ---
